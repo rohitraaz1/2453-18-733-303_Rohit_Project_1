@@ -1,0 +1,19 @@
+{
+  "name": "2453-18-733-023_project_1-main",
+  "version": "1.0.0",
+  "main": "config_project1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haricharan442/2453-18-733-023_project_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haricharan442/2453-18-733-023_project_1/issues"
+  },
+  "homepage": "https://github.com/Haricharan442/2453-18-733-023_project_1#readme",
+  "description": ""
+}
